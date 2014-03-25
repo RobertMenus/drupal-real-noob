@@ -1,0 +1,13 @@
+name = Link API
+description = A developer library for working with links and URLs.
+package = Link API
+core = 7.x
+
+dependencies[] = xautoload
+
+; Information added by drupal.org packaging script on 2013-09-30
+version = "7.x-2.x-dev"
+core = "7.x"
+project = "link_api"
+datestamp = "1380585049"
+
